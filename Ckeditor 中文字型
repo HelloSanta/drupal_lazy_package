@@ -1,0 +1,4 @@
+
+在CKEDITOR.editorConfig = function(config)以下加入此行
+
+config.font_names = '新細明體;細明體;標楷體;微軟正黑體;'+ config.font_names ;
